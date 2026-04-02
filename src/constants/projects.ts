@@ -58,8 +58,8 @@ export const PROJECTS: Project[] = [
     pickColors: ["#f9fafb","#ffffff", "#9810fa"],
     concept: "ポートフォリオ。\n 見た目をシンプルにしつつ、Next.jsによる動的な操作を意識して制作。",
     description: "Next.js及びTypeScriptのスキル向上と制作物の公開を目標に制作。\n１ヶ月以内公開を目標に制作を進め、3週間で公開できる形にしてデプロイ。",
-    github: "https://github.com/mstkynkgs-web/todo-app/",
-    deploy: "https://todo-app-eight-mu-28.vercel.app/",
+    github: "https://github.com/mstkynkgs-web/portfolio-app",
+    deploy: "https://portfolio-app-green-seven.vercel.app/",
     tags: ["Next.js", "React", "Tailwind", "GitHub"],
     images: ["/images/projects/portfolio/portfolio01.png", "/images/projects/portfolio/portfolio02.png"]
   },
